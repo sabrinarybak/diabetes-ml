@@ -1,8 +1,9 @@
-streamlit>=1.36
-pandas>=2.2
-numpy>=1.26
-scikit-learn>=1.4
-matplotlib>=3.8
-seaborn>=0.13
-joblib>=1.3
-requests>=2.31
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+xgboost
+umap-learn
